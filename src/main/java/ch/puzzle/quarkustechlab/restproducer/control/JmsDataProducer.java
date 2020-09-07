@@ -1,4 +1,4 @@
-package ch.puzzle.quarkustechlab.restproducer.boundary;
+package ch.puzzle.quarkustechlab.restproducer.control;
 
 import ch.puzzle.quarkustechlab.restproducer.entity.SensorMeasurement;
 import io.quarkus.runtime.ShutdownEvent;

@@ -8,7 +8,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 @Path("/data")
-public class DataProducer {
+public class DataProducerResource {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
